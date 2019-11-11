@@ -12,10 +12,10 @@ base: static web<br>
 01: url change web<br>
 
 ## Description.<br>
-This program aim to get (...).
-This web only on download link, so in this case, using function 're.search'.
-'re.search' allow return contect which matched fristly.
-Other methud will be expanded later.
+This program aim to get (...). 
+This web only on download link, so in this case, using function 're.search'. 
+'re.search' allow return contect which matched fristly. 
+Other methud will be expanded later. 
 
 
 ## Using.<br>
