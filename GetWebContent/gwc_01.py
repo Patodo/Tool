@@ -1,6 +1,6 @@
 import requests
 import re
-url = 'https://m.wnacg.org/download-index-aid-'
+url = '***'
 previous = 'http://d'
 before = 'zip'
 save = "test.txt"
